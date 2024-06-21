@@ -29,6 +29,20 @@ A solução deve exibir a distância atual e em seguida a mesagem: "Atencao: Mui
 
 Este projeto proporciona uma introdução prática ao uso de sensores com Arduino e oferece uma base sólida para projetos mais complexos no futuro.
 
+### Esquema de Montagem Sensor HC-SR04 com arduino
+
+![Projeto Reactjs](img/esquema_ultrassonico.png)
+
+### Montagem
+
+Para montagem, vamos colocar o sensor ultrassônico na extremidade para que os fios não interfiram na leitura da distância, conforme imagem a seguir.
+
+![Projeto Reactjs](img/exemplo_ultrassonico.png)
+
+### Vamos programar?
+
+Para montagem, vamos colocar o sensor ultrassônico na extremidade para que os fios não interfiram na leitura da distância, conforme imagem a seguir.
+
 <center>
 
 [🏠 Home](../README.md)
