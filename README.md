@@ -10,6 +10,6 @@ Roteiro sujerido:
 - [Projeto - Indicador de direção](pages/projeto_direcao.md)
 - [Componente - Sensor de Umidade e Temperatura DHT](pages/componente_dht.md)
 - [Componente - Resistor Depentende de Luz](pages/componente_dht.md)
-- [Display - Tela LCD 16x2](pages/lcd.md)
+- [Display - Tela LCD 16x2](pages/componente_lcd.md)
 - [Projeto - Monitor de Ambiente](pages/projeto_ambiente.md)
 - [Handson](pages/handson.md)

@@ -6,7 +6,7 @@
 
 #
 
-<h1 align="center">Projeto - Indicador de direção </h1>
+<h1 align="center">Projeto - Monitor de Ambiente </h1>
 
 ## Sobre
 
