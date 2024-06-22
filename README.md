@@ -8,4 +8,8 @@ Roteiro sujerido:
 - [Componente - Servo Motor](pages/componente_servo_motor.md)
 - [Componente - Poterciômetro](pages/componente_potenciometro.md)
 - [Projeto - Indicador de direção](pages/projeto_direcao.md)
+- [Componente - Sensor de Umidade e Temperatura DHT](pages/componente_dht.md)
+- [Componente - Resistor Depentende de Luz](pages/componente_dht.md)
+
 - [Handson](pages/handson.md)
+  Sensor de Umidade e Temperatura DHT

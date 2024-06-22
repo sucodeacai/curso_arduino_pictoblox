@@ -25,7 +25,7 @@
 
 ## Como utilizar?
 
-Para utilziar o Servo Motor SG90 Ativo é simples, primeiro vamos implementar o esquemático elétrico a seguir:
+Para utilziar o Servo Motor SG90 é simples, primeiro vamos implementar o esquemático elétrico a seguir:
 
 ![esquemático elétrico](img/servo_motor/esquematio_elétrio.png)
 
