@@ -35,7 +35,7 @@ Quanto maior o valor recebido no LDR mais escuro está o ambiente, logo definimo
 
 Caso tenha dado tudo certo, o seu projeto deve funcionar da seguinte maneira.
 
-![Esquemático elétrico](img/ldr/example.gif)
+![ldr exemplo](img/ldr/example.gif)
 
 ### Para saber mais
 
