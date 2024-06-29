@@ -33,7 +33,13 @@ Caso tenha dado tudo certo, o seu projeto deve funcionar da seguinte maneira.
 
 ![Esquemático elétrico](img/ambiente/example.gif)
 
-Agora vamos atualizar nosso código para exibir as informações de: temperatura, umidade e luminosidade no seu Smartphone, conforme código a seguir:
+Agora vamos atualizar nosso projeto para exibir as informações de: temperatura, umidade e luminosidade no seu Smartphone, conforme esquemático e códigos a seguir:
+
+## Esquemático elétrico 2
+
+![Esquemático elétrico](img/ambiente/esquematico_2.png)
+
+## Codificação atualizada
 
 ![Esquemático elétrico](img/ambiente/code_4.png)
 
