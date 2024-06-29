@@ -10,7 +10,7 @@
 
 ## Sobre
 
-Vamos desenvolver um projeto que exibe alternadamente no display a temperatura e a umidade, e depois mostra se a luminosidade está baixa ou alta e o status do LED, se está ligado ou desligado. Além disso se o LDR estiver maior que 900 o LED deve ser ligado.
+Vamos desenvolver um projeto que exibe alternadamente no display a temperatura e a umidade, e depois mostra se a luminosidade está baixa ou alta e o status do LED, se está ligado ou desligado. Além disso se o LDR estiver maior que 900 o LED deve ser ligado. Também vamos conectar com o Smartphone para exibir temperatura, umidade e luminosidade.
 
 ## Esquemático elétrico
 
@@ -32,6 +32,10 @@ Para corrigir o problema dos caracteres que não sumiram ao trocar o texto, deve
 Caso tenha dado tudo certo, o seu projeto deve funcionar da seguinte maneira.
 
 ![Esquemático elétrico](img/ambiente/example.gif)
+
+Agora vamos atualizar nosso código para exibir as informações de: temperatura, umidade e luminosidade no seu Smartphone, conforme código a seguir:
+
+![Esquemático elétrico](img/ambiente/code_4.png)
 
 <center>
 
